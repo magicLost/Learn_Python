@@ -1,0 +1,473 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.41.6",
+  "hash": "c12bbf79847981f9ecea",
+  "publicPath": "",
+  "outputPath": "/home/nikki/Documents/NodeJs/expressjs_portfolio_fullstack/dist-server",
+  "assetsByChunkName": {
+    "container-pages-Homepage-Homepage": [
+      "static/css/container-pages-Homepage-Homepage.a52654.css",
+      "container-pages-Homepage-Homepage.server.build.js"
+    ],
+    "container-pages-PhotoSliderPage-PhotoSliderPage": [
+      "static/css/container-pages-PhotoSliderPage-PhotoSliderPage.d3a6b4.css",
+      "container-pages-PhotoSliderPage-PhotoSliderPage.server.build.js"
+    ],
+    "main": [
+      "static/css/main.8977c8.css",
+      "server.build.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "container-pages-Homepage-Homepage.server.build.js",
+      "size": 2825,
+      "chunks": [
+        "container-pages-Homepage-Homepage"
+      ],
+      "chunkNames": [
+        "container-pages-Homepage-Homepage"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "container-pages-PhotoSliderPage-PhotoSliderPage.server.build.js",
+      "size": 2526,
+      "chunks": [
+        "container-pages-PhotoSliderPage-PhotoSliderPage"
+      ],
+      "chunkNames": [
+        "container-pages-PhotoSliderPage-PhotoSliderPage"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "index.html",
+      "size": 356,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "server.build.js",
+      "size": 63612,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/css/container-pages-Homepage-Homepage.a52654.css",
+      "size": 43,
+      "chunks": [
+        "container-pages-Homepage-Homepage"
+      ],
+      "chunkNames": [
+        "container-pages-Homepage-Homepage"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/css/container-pages-PhotoSliderPage-PhotoSliderPage.d3a6b4.css",
+      "size": 43,
+      "chunks": [
+        "container-pages-PhotoSliderPage-PhotoSliderPage"
+      ],
+      "chunkNames": [
+        "container-pages-PhotoSliderPage-PhotoSliderPage"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/css/main.8977c8.css",
+      "size": 2445,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        "static/css/main.8977c8.css",
+        "server.build.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        "static/css/main.8977c8.css",
+        "server.build.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "container-pages-Homepage-Homepage": {
+      "chunks": [
+        "container-pages-Homepage-Homepage"
+      ],
+      "assets": [
+        "static/css/container-pages-Homepage-Homepage.a52654.css",
+        "container-pages-Homepage-Homepage.server.build.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "container-pages-PhotoSliderPage-PhotoSliderPage": {
+      "chunks": [
+        "container-pages-PhotoSliderPage-PhotoSliderPage"
+      ],
+      "assets": [
+        "static/css/container-pages-PhotoSliderPage-PhotoSliderPage.d3a6b4.css",
+        "container-pages-PhotoSliderPage-PhotoSliderPage.server.build.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": [
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "",
+      "outputPath": "/home/nikki/Documents/NodeJs/expressjs_portfolio_fullstack/dist-server",
+      "assetsByChunkName": {},
+      "assets": [
+        {
+          "name": "index.html",
+          "size": 564266,
+          "chunks": [
+            0
+          ],
+          "chunkNames": [],
+          "info": {},
+          "emitted": false
+        }
+      ],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "index.html"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "index.html"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "html-webpack-plugin for \"index.html\""
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "",
+      "outputPath": "/home/nikki/Documents/NodeJs/expressjs_portfolio_fullstack/dist-server",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/index.js?modules!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/dist/cjs.js!src/client/component/ErrorBoundary/ErrorBoundary.module.scss"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "",
+      "outputPath": "/home/nikki/Documents/NodeJs/expressjs_portfolio_fullstack/dist-server",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/index.js?modules!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/dist/cjs.js!src/client/component/UI/Button/Button.module.scss"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "",
+      "outputPath": "/home/nikki/Documents/NodeJs/expressjs_portfolio_fullstack/dist-server",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/index.js?modules!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/dist/cjs.js!src/client/component/UI/Spinner/Spinner.module.scss"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "",
+      "outputPath": "/home/nikki/Documents/NodeJs/expressjs_portfolio_fullstack/dist-server",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/index.js?modules!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/dist/cjs.js!src/client/container/pages/Homepage/Homepage.module.scss"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "",
+      "outputPath": "/home/nikki/Documents/NodeJs/expressjs_portfolio_fullstack/dist-server",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/index.js?modules!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/dist/cjs.js!src/client/container/pages/NotFoundPage/NotFoundPage.module.scss"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "",
+      "outputPath": "/home/nikki/Documents/NodeJs/expressjs_portfolio_fullstack/dist-server",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            "mini-css-extract-plugin"
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin node_modules/css-loader/index.js?modules!node_modules/postcss-loader/src/index.js??ref--7-2!node_modules/sass-loader/dist/cjs.js!src/client/container/pages/PhotoSliderPage/PhotoSliderPage.module.scss"
+    }
+  ]
+}

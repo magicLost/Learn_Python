@@ -1,0 +1,27 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/express": "^4.17.2",
+    "@types/mongoose": "^5.5.29",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7",
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "superagent": "^5.1.0",
+    "supertest": "^4.0.2"
+  },
+  "scripts": {
+    "test": "node node_modules/.bin/jest",
+    "test:app": "npm run test app.test.js",
+    "tsc": "node node_modules/.bin/tsc",
+    "server:ts:compile": "npm run tsc server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

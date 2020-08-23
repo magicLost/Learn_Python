@@ -1,0 +1,35 @@
+WHO CATCH - ERROR HANDLER 
+ TIME - 2020-02-01 22:47:33 
+ TYPE - E_WARNING 
+ MESSAGE - Division by zero 
+ FILE - /home/nikki/Documents/Symfony/RM_OwnFramework/public/index.php 
+ LINE - 71 
+ 	 ----------------------------- 
+WHO CATCH - ERROR HANDLER 
+ TIME - 2020-02-02 17:27:47 
+ TYPE - E_WARNING 
+ MESSAGE - Division by zero 
+ FILE - /home/nikki/Documents/Symfony/RM_OwnFramework/public/index.php 
+ LINE - 71 
+ 	 ----------------------------- 
+WHO CATCH - ERROR HANDLER 
+ TIME - 2020-02-02 17:27:48 
+ TYPE - E_WARNING 
+ MESSAGE - Division by zero 
+ FILE - /home/nikki/Documents/Symfony/RM_OwnFramework/public/index.php 
+ LINE - 71 
+ 	 ----------------------------- 
+WHO CATCH - ERROR HANDLER 
+ TIME - 2020-02-02 17:27:49 
+ TYPE - E_WARNING 
+ MESSAGE - Division by zero 
+ FILE - /home/nikki/Documents/Symfony/RM_OwnFramework/public/index.php 
+ LINE - 71 
+ 	 ----------------------------- 
+WHO CATCH - ERROR HANDLER 
+ TIME - 2020-02-02 17:27:50 
+ TYPE - E_WARNING 
+ MESSAGE - Division by zero 
+ FILE - /home/nikki/Documents/Symfony/RM_OwnFramework/public/index.php 
+ LINE - 71 
+ 	 ----------------------------- 
